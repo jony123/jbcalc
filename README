@@ -1,0 +1,3 @@
+to complie this program.
+
+g++ main.cpp -o jbcalc
